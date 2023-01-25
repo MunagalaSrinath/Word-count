@@ -19,6 +19,7 @@ Anaconda - Python 3.7
 
 
 ## PROGRAM:
+```
 To write a program for getting the word count from a file.
 Developed by: M Srinath
 RegisterNumber: 22000990
@@ -30,7 +31,7 @@ def wordcount():
             count+=1 
     print("number of words in the paragraph are",count)
 wordcount()
-
+```
 ### OUTPUT:
 ![output](https://user-images.githubusercontent.com/118678482/214656568-4a5ba3ee-ad86-4528-b4b0-4c6800edb8d4.png)
 
