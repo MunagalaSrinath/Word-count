@@ -19,17 +19,21 @@ Anaconda - Python 3.7
 
 
 ## PROGRAM:
-Developed by : M Srinath
-Reference number: 22000990
-num=0
-with open("git.txt","r") as f1:
-    for i in f1:
-        word=i.split()
-        num += len(word)
-print("The number of words are in the file is ",num)
+To write a program for getting the word count from a file.
+Developed by: M Srinath
+RegisterNumber: 22000990
+def wordcount():
+    count = 0
+    with open("file1.txt",'r') as f:
+        a =  f.read()
+        for line in a.split():
+            count+=1 
+    print("number of words in the paragraph are",count)
+wordcount()
 
 ### OUTPUT:
-![wordout2](https://user-images.githubusercontent.com/118678482/214655109-69f31532-3cfb-4e3a-8067-f93750019d15.png)
+![output](https://user-images.githubusercontent.com/118678482/214656568-4a5ba3ee-ad86-4528-b4b0-4c6800edb8d4.png)
+
 
 
 
