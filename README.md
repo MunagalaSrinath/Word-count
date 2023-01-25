@@ -36,6 +36,10 @@ wordcount()
 ![output](https://user-images.githubusercontent.com/118678482/214656568-4a5ba3ee-ad86-4528-b4b0-4c6800edb8d4.png)
 
 
+![out1](https://user-images.githubusercontent.com/118678482/214656926-dd4fa8d6-986f-4459-aba2-cb89074f0c02.png)
+
+
+
 
 
 
