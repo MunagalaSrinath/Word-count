@@ -19,8 +19,8 @@ Anaconda - Python 3.7
 
 
 ## PROGRAM:
-Developed by : Ashwin Kumar.s
-Reference number: 22000974
+Developed by : M Srinath
+Reference number: 22000990
 num=0
 with open("git.txt","r") as f1:
     for i in f1:
